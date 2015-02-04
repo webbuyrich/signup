@@ -1,0 +1,18 @@
+[11-Jan-2015 01:55:08 Europe/Berlin] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\test\login.php on line 30
+
+[11-Jan-2015 01:55:26 Europe/Berlin] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\test\login.php on line 30
+
+[11-Jan-2015 01:55:51 Europe/Berlin] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\test\login.php on line 30
+
+[11-Jan-2015 01:56:04 Europe/Berlin] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\test\login.php on line 30
+
+[11-Jan-2015 01:56:13 Europe/Berlin] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\test\login.php on line 30
+
+[11-Jan-2015 01:56:23 Europe/Berlin] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\test\login.php on line 30
+
+[11-Jan-2015 02:05:36 Europe/Berlin] PHP Notice:  Undefined variable: signup_password in C:\xampp\htdocs\test\new_user.php on line 18
+[11-Jan-2015 02:05:36 Europe/Berlin] PHP Notice:  Undefined variable: signup_password in C:\xampp\htdocs\test\new_user.php on line 18
+[11-Jan-2015 02:11:29 Europe/Berlin] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\test\login.php on line 30
+[11-Jan-2015 02:11:39 Europe/Berlin] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\test\login.php on line 30
+[03-Feb-2015 22:20:07 America/Mexico_City] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\test\login.php on line 30
+[03-Feb-2015 22:20:18 America/Mexico_City] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\test\login.php on line 30
